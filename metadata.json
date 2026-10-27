@@ -1,0 +1,6 @@
+{
+  "name": "Carrom Classic",
+  "description": "Play Carrom Classic – the authentic wooden board game on mobile. Featuring realistic physics, single-player vs AI, local 2-player mode, drag-to-aim controls, and smooth touch gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
